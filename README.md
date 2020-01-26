@@ -18,8 +18,8 @@ Neste repositório você encontrará todas as informações adicionais relaciona
   * Link 1  
     *(opcional) Breve descrição*  
     * Dicas de Markdown
-      * Quebra de linha igual a descrição acima ocorre quando a linha anterior tem dois `  ` (espaços) no final da linha
-    * Para criar a série de *bullets*, alinhe o inicio da linha com o início do tópico anterior para criar vários níveis
+      * Quebra de linha igual a descrição acima ocorre quando a linha anterior tem dois espaços no final da linha
+      * Para criar a série de *bullets*, alinhe o inicio da linha com o início do tópico anterior para criar vários níveis
 
   * Link 2  
    *(opcional) Breve descrição*
