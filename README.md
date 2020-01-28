@@ -33,18 +33,17 @@ Neste repositório você encontrará todas as informações adicionais relaciona
 ## Parte XIII. Cloud e Deploy
 
 * Exemplos de código  
-  *https://github.com/jornada-java/livro-java-exemplos/tree/master/Parte 12 - Cloud e Deploy/demo*
-
+  * [Projeto exemplo para deploy no AWS](https%3A//github.com/jornada-java/livro-java-exemplos/tree/master/Parte%2012%20-%20Cloud%20e%20Deploy/demo)
 * Links
  
-  * https://aws.amazon.com/pt/premiumsupport/knowledge-center/create-and-activate-aws-accoun  
-	*Criando uma conta na AWS*  
+  * [Criando uma conta na AWS](https://aws.amazon.com/pt/premiumsupport/knowledge-center/create-and-activate-aws-accoun)
+    * Tutorial ensinando como criar sua conta  
 
-  *https://www.eclipse.org/mat/  
-	*Eclipse MAT é um monitor e analisador de memória para a IDE do Eclipse *
+  * [Eclipse MAT](https://www.eclipse.org/mat/)  
+	* Monitor e analisador de memória para a IDE do Eclipse
 
-  * https://plugins.jetbrains.com/plugin/8537-jvm-debugger-memory-view 
-	*JVM Debugger Memory View - IntelliJ é um analisador de memória para o IDEA IntelliJ *
+  * [JVM Debugger Memory View for IntelliJ](https://plugins.jetbrains.com/plugin/8537-jvm-debugger-memory-view) 
+	* Analisador de memória para a IDE IntelliJ
 
-  * https://visualvm.github.io/download.html
-	*Projeto Open Source da VisualVM*    
+  * [Repositório da VisualVM](https://visualvm.github.io/download.html)
+	* Projeto Open Source da VisualVM    
