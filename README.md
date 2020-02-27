@@ -33,11 +33,11 @@ Neste repositório você encontrará todas as informações adicionais relaciona
 ## Parte XIII. Cloud e Deploy
 
 * Exemplos de código   
-  *[Projeto exemplo para deploy no AWS](https://github.com/jornada-java/livro-java-exemplos/tree/master/Parte%2012%20-%20Cloud%20e%20Deploy/demo)*
+  *[Projeto exemplo para deploy no AWS](https://github.com/jornada-java/livro-java-exemplos/tree/master/Parte%2013%20-%20Cloud%20e%20Deploy/demo)*
 
 * Links
 
-  * [Criando uma conta na AWS](https://aws.amazon.com/pt/premiumsupport/knowledge-center/create-and-activate-aws-accoun)  
+  * [Criando uma conta na AWS](https://aws.amazon.com/pt/premiumsupport/knowledge-center/create-and-activate-aws-account)  
     *Tutorial ensinando como criar sua conta*
 
   * [Eclipse MAT](https://www.eclipse.org/mat/)  
