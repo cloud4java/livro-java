@@ -37,7 +37,7 @@ Neste repositório você encontrará todas as informações adicionais relaciona
 
 * Links
 
-  * [Criando uma conta na AWS](https://medium.com/@dorivalq/do-zero-%C3%A0-nuvem-1-criando-sua-conta-na-aws-c7bc580786d6?sk=8108ebe0a16d9ff5860aa811cb983ff3)  
+  * [Criando uma conta na AWS](https://medium.com/@dorivalq/do-zero-%C3%A0-nuvem-1-criando-sua-conta-na-aws-c7bc580786d6?source=friends_link&sk=8108ebe0a16d9ff5860aa811cb983ff3)  
     *Tutorial ensinando como criar sua conta*
 
   * [Eclipse MAT](https://www.eclipse.org/mat/)  
