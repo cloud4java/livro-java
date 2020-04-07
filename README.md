@@ -48,7 +48,7 @@ Neste repositório você encontrará todas as informações adicionais relaciona
 * Monitoramento - Ferramentas
 
   * [Java Mission Control - Download](https://jdk.java.net/jmc/)  
-    *Feramenta Open Source Para Monitoramento Java Em Tempo Real*
+    *Feramenta Open Source Para Gerenciamento e Monitoramento Java Em Tempo Real*
   * [Eclipse MAT](https://www.eclipse.org/mat/)  
     *Monitor e analisador de memória para a IDE do Eclipse*
   * [JVM Debugger Memory View for IntelliJ](https://plugins.jetbrains.com/plugin/8537-jvm-debugger-memory-view)   
